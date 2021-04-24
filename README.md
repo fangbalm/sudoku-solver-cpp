@@ -1,6 +1,6 @@
 # Sudoku Solver CLI
 
-A simple command-line-application sudoku solver created with C++ that utilizes backtracking algorithms to determine the available grid positions. 
+A simple command-line-application sudoku solver created with C++ that utilizes [backtracking](https://www.geeksforgeeks.org/backtracking-algorithms/) algorithms to determine the available grid positions. 
 
 
 ## Motivation
